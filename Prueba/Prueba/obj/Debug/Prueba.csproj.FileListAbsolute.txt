@@ -4,3 +4,9 @@ C:\Users\dell\Documents\Visual Studio 2012\Projects\Prueba\Prueba\bin\Debug\Prue
 C:\Users\dell\Documents\Visual Studio 2012\Projects\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
 C:\Users\dell\Documents\Visual Studio 2012\Projects\Prueba\Prueba\obj\Debug\Prueba.exe
 C:\Users\dell\Documents\Visual Studio 2012\Projects\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Liz\Documents\GitHub\Pruebajujuju\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Liz\Documents\GitHub\Pruebajujuju\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Liz\Documents\GitHub\Pruebajujuju\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Liz\Documents\GitHub\Pruebajujuju\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Liz\Documents\GitHub\Pruebajujuju\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Liz\Documents\GitHub\Pruebajujuju\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache

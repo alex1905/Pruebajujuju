@@ -11,6 +11,8 @@ namespace Prueba
         static void Main(string[] args)
         {
             Console.WriteLine("si funciona");
+            Console.WriteLine("Hola juju");
+            Console.WriteLine(":) :D");
             Console.ReadLine();
         }
     }
